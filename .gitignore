@@ -1,2 +1,4 @@
 *.pyc
 .DS_Store
+.conda
+notebooks/episodic_data/simple_stirap/
